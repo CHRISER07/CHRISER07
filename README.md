@@ -94,21 +94,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CHRISER07&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=false&area=true" height="180" alt="activity graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISER07&theme=tokyonight&hide_border=false" height="180" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy graph"  />
 </div>
 
 ###
