@@ -89,29 +89,42 @@
 
 ###
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CHRISER07&theme=dark&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=CHRISER07&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=false&area=true" height="180" alt="activity graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="center">🔥 Contribution Graph</h2>
 
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CHRISER07&icon=0&color=0" alt="visitor count"  />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=for-the-badge&color=blue" alt="Profile views"  />
 </div>
 
 ###
