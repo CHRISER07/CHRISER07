@@ -109,43 +109,45 @@ Currently serving as an AI/ML Engineer Intern at LenDenClub, I specialize in geo
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/CHRISER07">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/CHRISER07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISER07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CHRISER07&theme=tokyonight&hide_border=true" height="180" alt="Contribution Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHRISER07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/CHRISER07">
+    <img src="https://github-profile-trophy.vercel.app/?username=CHRISER07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
-## Contribution Visualization
+## Contribution Activity
 
-<div align="center">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <a href="https://github.com/CHRISER07">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <sub>Built with dedication to innovation and excellence in AI/ML engineering.</sub>
-</div>
+</p>
