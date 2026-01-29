@@ -110,20 +110,26 @@ Currently serving as an AI/ML Engineer Intern at LenDenClub, I specialize in geo
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISER07&theme=tokyonight&hide_border=true" height="170" alt="Contribution Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="90%" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=CHRISER07&theme=tokyonight&hide_border=true" height="180" alt="Contribution Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CHRISER07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
