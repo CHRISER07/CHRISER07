@@ -1,135 +1,145 @@
-<h1 align="center">Hey 👋 I'm Christopher Albert</h1>
+<h1 align="center">Christopher Albert</h1>
 
-###
+<h3 align="center">AI/ML Engineer | Computer Engineering Student | Intelligent Systems Developer</h3>
 
-<h3 align="center">AI/ML Engineer | Computer Engineering Student | Building Intelligent Systems</h3>
-
-###
-
-<p align="center">I'm passionate about building intelligent systems that solve real-world problems, particularly in machine learning, computer vision, and explainable AI.<br>Currently working as an AI/ML Engineer Intern at LenDenClub, focusing on geospatial analysis and income estimation models.</p>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/christopher-albert-62bb35267/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
   <a href="mailto:christopheraseer93@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Email" />
   </a>
   <a href="https://orcid.org/0009-0008-2927-5143" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="orcid logo"  />
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="ORCID" />
   </a>
   <a href="https://github.com/CHRISER07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="GitHub" />
   </a>
+</p>
+
+---
+
+## About Me
+
+I am a dedicated AI/ML Engineer and Computer Engineering student with a passion for developing intelligent systems that address complex real-world challenges. My expertise spans machine learning, computer vision, and explainable AI, with a focus on creating scalable and impactful solutions.
+
+Currently serving as an AI/ML Engineer Intern at LenDenClub, I specialize in geospatial analysis and advanced income estimation models, leveraging cutting-edge technologies to drive data-driven decision-making.
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
 </div>
 
-###
+### AI/ML & Data Science
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" />
+</div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+### Web Development & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL" />
+</div>
 
-###
+### Databases & Storage
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+</div>
+
+### Cloud & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+</div>
+
+### Development Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
+</div>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" height="170" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISER07&theme=tokyonight&hide_border=false" height="180" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHRISER07&theme=tokyonight&hide_border=true" height="170" alt="Contribution Streak" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="90%" alt="Contribution Graph" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CHRISER07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-###
+---
 
-<h2 align="center">🔥 Contribution Graph</h2>
-
-###
+## Contribution Visualization
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=for-the-badge&color=blue" alt="Profile views"  />
+  <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-###
+<div align="center">
+  <sub>Built with dedication to innovation and excellence in AI/ML engineering.</sub>
+</div>
