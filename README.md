@@ -1,8 +1,8 @@
-<h1 align="center">Christopher Albert</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Christopher+Albert;AI%2FML+Engineer+%7C+CV+%7C+XAI;Building+Intelligent+Systems" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">
-AI/ML Engineer | Computer Engineering Student | Intelligent Systems Developer
-</h3>
+<h3 align="center">AI/ML Engineer · Computer Engineering Student · Intelligent Systems Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-albert-62bb35267/" target="_blank">
@@ -19,104 +19,98 @@ AI/ML Engineer | Computer Engineering Student | Intelligent Systems Developer
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
+
 ---
 
-## About Me
+## 🧠 About Me
 
-I am an AI/ML Engineer and Computer Engineering student focused on building **scalable, real-world intelligent systems**. My interests and experience span **machine learning, computer vision, explainable AI (XAI), and geospatial intelligence**, with an emphasis on production-ready and research-driven solutions.
+I am an **AI/ML Engineer** and **Computer Engineering student** focused on building **scalable, real-world intelligent systems**. My interests and experience span **machine learning, computer vision, explainable AI (XAI), and geospatial intelligence**, with an emphasis on production-ready and research-driven solutions.
 
 Currently serving as an **AI/ML Engineer Intern at LenDenClub**, I work on **geospatial analytics and advanced income estimation models**, applying data-driven approaches to solve high-impact financial problems.
 
-**Interests:** Explainable AI (XAI), Geospatial Intelligence, Applied Deep Learning, AI for Social Impact
+> 💡 **Interests:** Explainable AI (XAI) · Geospatial Intelligence · Applied Deep Learning · AI for Social Impact
 
 ---
 
-## Technical Expertise
+## 🛠️ Technical Expertise
 
-### Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
-  <img src="https://skillicons.dev/icons?i=c" height="50"/>
-  <img src="https://skillicons.dev/icons?i=go" height="50"/>
-</div>
+### 🖥️ Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,go" />
+</p>
 
-### AI / ML & Data Science
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
-</div>
+### 🤖 AI / ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="50" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
+</p>
 
-### Web Development & Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="50"/>
-</div>
+### 🌐 Web Development & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,django,fastapi,tailwind,graphql" />
+</p>
 
-### Databases & Storage
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-</div>
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,redis" />
+</p>
 
-### Cloud & DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-</div>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+</p>
 
-### Development Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
-  <img src="https://skillicons.dev/icons?i=arduino" height="50"/>
-</div>
+### 🧰 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,linux" />
+</p>
 
 ---
 
-## Research & Publications
+## 📚 Research & Publications
 
-- Author of **IEEE conference papers** in AI/ML and intelligent systems  
-- Experience with **research-oriented ML, explainable models, and system evaluation**
-- Active contributor to applied and experimental AI projects
+- 📄 Author of **IEEE conference papers** in AI/ML and intelligent systems
+- 🔬 Experience with **research-oriented ML, explainable models, and system evaluation**
+- 🤝 Active contributor to applied and experimental AI projects
+- 🆔 ORCID: [0009-0008-2927-5143](https://orcid.org/0009-0008-2927-5143)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHRISER07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISER07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+  <img src="https://streak-stats.demolab.com?user=CHRISER07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHRISER07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CHRISER07/CHRISER07/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CHRISER07&style=flat-square&color=blue"/>
-</p>
-
-<p align="center">
-  <sub>Built with dedication to innovation and excellence in AI/ML engineering.</sub>
+  <sub>⚡ Built with dedication to innovation and excellence in AI/ML engineering.</sub>
 </p>
