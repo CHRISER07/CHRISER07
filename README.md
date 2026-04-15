@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Christopher+Albert;AI%2FML+Engineer+%7C+CV+%7C+XAI;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Christopher+Albert;AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI/ML Engineer · Computer Engineering Student · Intelligent Systems Developer</h3>
